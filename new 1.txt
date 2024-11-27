@@ -1,0 +1,38 @@
+
+
+  Personal account
+   sb-cjt0e26681038@personal.example.com
+   J+aZPZ9q
+
+  Business account
+   sb-8nmzn14707637@business.example.com
+   QG7Uee<8
+
+
+  New Accounts:
+
+   personal
+       sb-g43z2n26681131@personal.example.com
+       (:2x/WU:
+
+   business
+       sb-kvfrf14707024@business.example.com
+       XPuU%8j!
+	   
+	   
+	   
+   business
+	   
+	   sb-z3h8v14705557@business.example.com
+	   z>'f9'+I
+	   
+	personal
+	  sb-ddtqd29950560@personal.example.com
+	  45*;Kt,6
+	  
+	  
+	  https://www.sandbox.paypal.com/cgi-bin/webscr
+	  
+	  https://sandbox.paypal.com/jo/home
+	  
+	  https://developer.paypal.com/dashboard/accounts/
